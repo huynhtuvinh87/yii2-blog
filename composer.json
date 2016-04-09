@@ -1,20 +1,15 @@
 {
-    "name": "huynhtuvinh87/yii2-blog",
-    "description": "Yii2 blog module",
-    "type": "yii2-blog",
-    "keywords": ["yii2", "blog"],
-    "license": "Apache 2.0",
+    "name": "huynhtuvinh87/blog",
+    "description": "Blog module",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Huynh Tu Vinh",
             "email": "huynhtuvinh87@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "require": {
-        "yiisoft/yii2": "*"
-    },
     "autoload": {
         "psr-4": {
             "huynhtuvinh87\\blog\\": ""
